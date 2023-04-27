@@ -3,7 +3,7 @@ import Link from "next/link";
 import { useState, useEffect } from "react";
 import { Button, Container, Container2, StarWarsLogo } from "./styles/style";
 
-export default function Planets() {
+export default function PlanetsPage() {
   const [planet, setPlanets] = useState([]);
   const [page, setPage] = useState(1);
   const [id, setId] = useState(1);
