@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Button, Container, Container2, StarWarsLogo } from "./style";
+import { Button, Container, Container2, StarWarsLogo } from "./styles/style";
 
 export default function MyApp(){
   return (
