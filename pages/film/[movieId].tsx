@@ -1,4 +1,4 @@
-import { Container, Container2, H1, H2 } from "./style";
+import { Container, Container2, H1, H2 } from "./styles/style";
 import { api } from "@/services/api";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/router";

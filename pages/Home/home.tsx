@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Button, Container, Container2, StarWarsLogo } from "./style";
+import { Button, Container, Container2, StarWarsLogo } from "./styles/style";
 import { api } from "@/services/api";
 import Link from "next/link";
 

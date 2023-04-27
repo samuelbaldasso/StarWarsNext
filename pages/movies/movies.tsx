@@ -1,7 +1,7 @@
 import { api } from "@/services/api";
 import Link from "next/link";
 import { useState, useEffect } from "react";
-import { Container, Container2, StarWarsLogo, Button } from "./style";
+import { Container, Container2, StarWarsLogo, Button } from "./styles/style";
 
 export default function Movies(){
   const [movies, setMovies] = useState([]);

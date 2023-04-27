@@ -2,7 +2,7 @@ import { api } from "@/services/api";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/router";
 
-import { Container, Container2, H1, H2 } from "./style";
+import { Container, Container2, H1, H2 } from "./styles/style";
 
 export default function Planet() {
   const [planet, setPlanet] = useState<any>([]);

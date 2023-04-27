@@ -2,7 +2,7 @@ import axios from "axios";
 import { api } from "@/services/api";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/router";
-import { Container, Container2, H1 } from "./style";
+import { Container, Container2, H1 } from "./styles/style";
 
 export default function Starship() {
   const [starship, setStarship] = useState<any>([]);

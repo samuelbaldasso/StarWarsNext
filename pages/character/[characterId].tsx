@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Button, Container, Container2, H1, Link, StarWarsLogo } from "./style";
+import { Button, Container, Container2, H1, Link, StarWarsLogo } from "./styles/style";
 import { api } from "@/services/api";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/router";
