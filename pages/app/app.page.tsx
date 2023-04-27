@@ -9,7 +9,7 @@ export default function MyApp(){
       </Container2>
       <Container2>
         <Button>
-          <Link href={'home/home'}>Characters</Link>
+          <Link href={'characters/characters'}>Characters</Link>
         </Button>
         <Button>
           <Link href={'movies/movies'}>Movies</Link>
