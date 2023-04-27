@@ -26,6 +26,8 @@ align-items: center;
 export const Button = styled.button`
   margin: 12px;
   width: 100px;
-  border: none;
+  background-color: #121200;
+  border: 1px solid white;
+  color: white;
   border-radius: 5px;
 `

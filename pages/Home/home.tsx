@@ -33,7 +33,7 @@ export default function Home() {
       </Container2>
       <Container>
         {characters?.map((e: any) => (
-          <Link href={{pathname: `/details/${e.id}`}} key={e.id}>
+          <Link href={{pathname: `../character/${e.id}`}} key={e.id}>
             {e.name}
           </Link>
         ))}
