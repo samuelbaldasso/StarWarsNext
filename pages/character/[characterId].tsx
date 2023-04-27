@@ -4,7 +4,7 @@ import { api } from "@/services/api";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/router";
 
-export default function Details() {
+export default function Character() {
   const [characters, setCharacters] = useState<any>([]);
   const router = useRouter();
 

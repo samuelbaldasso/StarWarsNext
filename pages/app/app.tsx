@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Button, Container, Container2, StarWarsLogo } from "./style";
 
-export const MyApp = () => {
+export default function MyApp(){
   return (
     <Container>
       <Container2>
