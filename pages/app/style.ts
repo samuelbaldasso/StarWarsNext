@@ -1,5 +1,4 @@
 import styled from "styled-components";
-
 export const StarWarsLogo = styled.img`
 `
 
