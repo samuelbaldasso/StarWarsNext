@@ -8,6 +8,7 @@ export const H1 = styled.a`
 `
 
 export const StarWarsLogo = styled.img`
+max-width: 300px;
 `
 
 export const Container = styled.div`
@@ -27,6 +28,12 @@ padding: 48px;
 margin: 48px;
 border-radius: 25px;
 align-items: center;
+gap: 12px;
+text-align: center;
+
+@media(max-width: 425px) {
+  margin: 0; 
+}
 `
 
 export const Button = styled.button`

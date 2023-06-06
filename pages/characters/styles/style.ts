@@ -7,6 +7,7 @@ export const H1 = styled.a`
 `
 
 export const StarWarsLogo = styled.img`
+max-width: 300px;
 `
 
 export const Container = styled.div`

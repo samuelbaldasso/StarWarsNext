@@ -1,5 +1,6 @@
 import styled from "styled-components";
 export const StarWarsLogo = styled.img`
+  max-width: 500px;
 `
 
 export const Container = styled.div`
@@ -15,6 +16,10 @@ display: flex;
 margin: 48px;
 justify-content: space-between;
 align-items: center;
+
+@media(max-width: 768px){
+  flex-direction: column;
+}
 `
 
 export const Button = styled.button`
