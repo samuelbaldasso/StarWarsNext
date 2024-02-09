@@ -1,6 +1,6 @@
 import styled from "styled-components";
 export const StarWarsLogo = styled.img`
-  max-width: 500px;
+  max-width: 300px;
 `
 
 export const Container = styled.div`
