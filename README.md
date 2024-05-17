@@ -19,7 +19,7 @@ Este é um projeto de uma aplicação web com temática de Star Wars, construíd
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **Next.js**: Framework React para renderização do lado do servidor e geração de sites estáticos.
 - **SWAPI**: API pública que fornece dados sobre o universo Star Wars.
-- **CSS Modules**: Para estilização com escopo local.
+- **Styled Components**: Para estilização com escopo local em formato de componente TypeScript.
 - **Axios**: Para realizar requisições HTTP.
 
 ## Como Rodar o Projeto
