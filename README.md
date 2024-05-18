@@ -70,6 +70,10 @@ npm start
 yarn start
 ```
 
+Uso da aplicação
+
+O projeto também está publicado via Vercel por esta URL: `star-wars-nextjs-three.vercel.app`
+
 ---
 
 Desenvolvido com ❤️ por Samuel Baldasso
