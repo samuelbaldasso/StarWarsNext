@@ -33,8 +33,8 @@ Este é um projeto de uma aplicação web com temática de Star Wars, construíd
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/samuelbaldasso/Star_Wars-TypeScript-ReactJS-NextJS-Styled_Components-SWAPI.git
-    cd Star_Wars-TypeScript-ReactJS-NextJS-Styled_Components-SWAPI
+    git clone https://github.com/samuelbaldasso/StarWarsNext.git
+    cd StarWarsNext
     ```
 
 2. Instale as dependências:
