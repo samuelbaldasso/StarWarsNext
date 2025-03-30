@@ -1,7 +1,5 @@
 # Star Wars App
 
-![Star Wars](https://starwars-visualguide.com/assets/img/categories/starships.jpg)
-
 ## Descrição
 
 Este é um projeto de uma aplicação web com temática de Star Wars, construída usando React e Next.js. O backend da aplicação consome dados da SWAPI (Star Wars API). O objetivo do projeto é permitir que os usuários explorem informações sobre personagens, planetas, naves espaciais e muito mais do universo Star Wars.
